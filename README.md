@@ -3,9 +3,10 @@
 ## 1. Pre
 ### 1. 기초 수학 복습
 
-[딥러닝 기초 - 신경망 기초수학](https://colab.research.google.com/drive/13ZwqCpFknt022ONPP1MXwt2kkwuCB4jH?usp=sharing)
+[딥러닝 기초 - 신경망 기초수학](https://github.com/htright/s_boot/blob/master/Pre/_2_%EC%8B%A0%EA%B2%BD%EB%A7%9D_%EA%B8%B0%EC%B4%88_%EC%88%98%ED%95%99.ipynb)
 
 ### 2. Python 복습
+Numpy, Pandas 요약
 
 ### 3. AI concept
 

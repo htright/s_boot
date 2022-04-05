@@ -1,0 +1,9 @@
+#jupyter notebook
+*/.ipnyb_checkpoints/
+
+#data
+*.csv
+*.json
+
+#temporary
+temporary\
