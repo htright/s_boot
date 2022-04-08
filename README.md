@@ -8,7 +8,10 @@
 ### 2. Python 복습
 
 [Numpy, Pandas 요약](https://github.com/htright/s_boot/blob/master/Pre/Numpy%2C%20Pandas%20%EC%9A%94%EC%95%BD.ipynb)
-[Matplotlib_데이터시각화]
+
+[Matplotlib_데이터시각화](https://github.com/htright/s_boot/blob/master/Pre/Matplotlib.ipynb)
+
+
 
 
 ### 3. AI concept
