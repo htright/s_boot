@@ -13,8 +13,15 @@
 
 
 
-
 ### 3. AI concept
+
+
+
+## 2. Class
+
+### Chapter 1
+
+Lab_1_1_Python,_NumPy
 
 
 
